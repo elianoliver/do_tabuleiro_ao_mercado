@@ -132,11 +132,6 @@ function Hero() {
           <div className="book-token token-one">01</div>
           <div className="book-token token-two"><TrendingUp /></div>
           <img className="book-image" src="/book.png" alt="E-book aberto" />
-          <div className="book-page-copy">
-            <img src="/logo2.svg" alt="" />
-            <strong>Do Tabuleiro<br />ao Mercado</strong>
-            <small>Estratégia para empreender</small>
-          </div>
           <div className="book-badge"><BookOpen /> 150+ páginas</div>
         </div>
       </div>
